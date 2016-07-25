@@ -1,0 +1,8 @@
+{
+    "name": "italo/silex-test",
+    "type": "project",
+    "require": {
+        "silex/silex": "^2.0"
+    },
+    "minimum-stability": "dev"
+}
